@@ -1,0 +1,86 @@
+body{
+	font-family: 'Montserrat';
+}
+ul.home-links {
+	position: absolute;
+    right: 5px;
+    list-style: none;
+}
+ul.contact-me {
+    list-style: none;
+}
+ul.contact-me li {
+    display: inline-block;
+}
+
+ul.contact-me a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+.our-services h1 {
+    color: #fff;
+    text-align: center;
+}
+ul.contact-me span {
+    font-size: 25px;
+    color: #fff;
+    margin-right: 10px;
+}
+ul.our-services img{text-align: center;}
+ul.our-services p{
+	font-family: 'Lato', sans-serif !important;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+ul.our-services {
+	padding: 0;
+	list-style: none;
+}
+ul.our-services li {
+	border: 1px solid #fff;
+    border-radius: 10px;
+	text-align: center;
+	margin: 20px 35px;
+	width: 420px;
+    display: inline-block;
+}
+ul.home-links li {
+    display: inline-block;
+    padding: 0px 30px;
+}
+ul.home-links a {
+    font-size: 20px;
+    text-decoration:none;
+    color: #000;
+}
+.container {
+	background-color: #000!important;
+	max-width: 100% !important;
+}
+p{
+	margin-bottom: 0 !important;
+}
+.navbar{
+	background-color: #fff;
+	height: 50px;
+}
+.tagline-container {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+.tagline-container h1,.tagline-container h2 {
+    color: #fff;
+}
+p.desc {
+	font-family: 'Lato', sans-serif !important;
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 20px;
+}
